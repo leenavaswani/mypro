@@ -172,8 +172,15 @@ input,textarea,button{
     color: black;
 
 }
-
-
+.cen{
+    text-shadow: rgba(0,0,0,0.5);
+}
+ .slider img{
+     background-size: 100% 100%;
+}
+.slider{
+    padding-top: 80px;
+} 
 
 /* media query */
 
